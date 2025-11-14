@@ -1,0 +1,4 @@
+﻿NAME,TYPE,LOCATION,RESOURCE LINK
+"sqluserr","SQL server","South India","https://portal.azure.com#resource/subscriptions/2ed152b6-3f87-41db-a632-683016e2697b/resourceGroups/accenture26/providers/Microsoft.Sql/servers/sqluserr"
+"db1","SQL database","South India","https://portal.azure.com#resource/subscriptions/2ed152b6-3f87-41db-a632-683016e2697b/resourceGroups/accenture26/providers/Microsoft.Sql/servers/sqluserr/databases/db1"
+"storageaccountna435","Storage account","South India","https://portal.azure.com#resource/subscriptions/2ed152b6-3f87-41db-a632-683016e2697b/resourceGroups/accenture26/providers/Microsoft.Storage/storageAccounts/storageaccountna435"
