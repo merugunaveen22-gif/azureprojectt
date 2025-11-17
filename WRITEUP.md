@@ -13,4 +13,12 @@ I chose the web app service because it is a lower cost than a virtual machine. T
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
 
-I would consider potentially using a virtual machine if they had more "cookie-cutter" or "plug-in-play" template functionality for web app services and continuous deployments as compared to the PAS web app Azure service offerings that streamline changes and deployments from a GitHub repo or other sources. A virtual machine takes a lot of thoughtful planning and work to make it secure and up-to-date, so I do not see this changing in the near future. 
+I would consider potentially using a virtual machine if they had more "cookie-cutter" or "plug-in-play" template functionality for web app services and continuous deployments as compared to the PAS web app Azure service offerings that streamline changes and deployments from a GitHub repo or other sources. A virtual machine takes a lot of thoughtful planning and work to make it secure and up-to-date, so I do not see this changing in the near future.
+
+How will the app change per my decision (CMS to Azure)?
+
+Migrating the CMS application to Azure will require modifying certain components so they can run efficiently in a cloud environment. This includes updating the application to use Azure-native services such as Azure App Service, Azure SQL Database, and Azure Blob Storage for content management. Moving to Azure also provides more control over scalability and infrastructure performance, allowing the app to handle higher loads and improve reliability.
+
+Listes any other needs i must change to suit  application requirements.
+
+Additional changes may include updating configuration settings for security, enabling Azure Active Directory for authentication, and setting up CI/CD pipelines for smoother deployments. The application may also need enhancements for logging and monitoring using Azure Monitor and Application Insights. These adjustments ensure the CMS runs smoothly, meets performance expectations, and follows cloud best practices.
